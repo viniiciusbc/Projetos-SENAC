@@ -5,6 +5,6 @@
 - Horário matutino
 - Segunda - Sexta 
 
-## Vinicius Barreto
+## Vinicius Barreto Costa
 
-- Bacharel em Sistemas de Informação.
+- Bacharel em Sistemas de Informação
