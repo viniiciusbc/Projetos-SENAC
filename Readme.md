@@ -8,3 +8,4 @@
 ## Vinicius Barreto Costa
 
 - Bacharel em Sistemas de Informação
+- Universidade Federal de Goiás
