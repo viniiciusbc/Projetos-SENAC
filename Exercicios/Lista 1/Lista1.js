@@ -5,8 +5,8 @@ let numero2;
 let numero3;
 
 console.log("Exercicio 1, Nome completo.");
-var nome = prompt("Nome: ");
-var sobrenome = prompt("Sobrenome: ");
+let nome = prompt("Nome: ");
+let sobrenome = prompt("Sobrenome: ");
 console.log("Nome completo: ", nome, "", sobrenome);
 
 console.log("\nExercicio 2, Multiplicação de dois numeros.");
