@@ -1,8 +1,8 @@
 
-let entradaUsuarioNumero;
-let numero1;
-let numero2;
-let numero3;
+let entradaUsuarioNumero = 0;
+let numero1 = 0;
+let numero2 = 0;
+let numero3 = 0;
 
 console.log("Exercicio 1, Nome completo.");
 let nome = prompt("Nome: ");
